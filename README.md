@@ -27,6 +27,6 @@ Hi! I’m **Reed Jorgensen (乔睿德)**, an undergraduate student at **Georgia 
 
 ## How to Reach Me  
 - 📫 **Email**: [rjorgensen6@gatech.edu](mailto:rjorgensen6@gatech.edu)  
-- 🌐 **LinkedIn**: [Your LinkedIn Profile](#) <!-- Replace with your LinkedIn URL -->
+- 🌐 **LinkedIn**: www.linkedin.com/in/reed-jorgensen
 
 Feel free to explore my repositories and reach out if you’d like to collaborate or share ideas. Let’s innovate together!
